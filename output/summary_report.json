@@ -1,0 +1,17 @@
+{
+    "collected_per_source": {
+        "Books to Scrape": 1000,
+        "Quotes to Scrape": 100
+    },
+    "cleaned_per_source": {
+        "Books to Scrape": 1000,
+        "Quotes to Scrape": 100
+    },
+    "rejected_by_reason": {},
+    "total_rejected": 0,
+    "duplicates_detected": 1,
+    "final_record_count": 1099,
+    "execution_start_utc": "2026-10-06T14:59:50.256890+00:00",
+    "execution_end_utc": "2026-10-06T15:00:48.184021+00:00",
+    "duration_seconds": 57.93
+}
